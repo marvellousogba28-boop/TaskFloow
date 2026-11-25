@@ -9,7 +9,6 @@ Help everyday users stay on top of their daily tasks without getting overwhelmed
 
 This document defines the product scope, user experience, functional requirements, quality expectations, MVP boundaries, and launch criteria for TaskFlow.
 
-*Prepared as a working product specification. Features and alert timings should be tested with real users before launch.*
 
 ## Document overview
 
