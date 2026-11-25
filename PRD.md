@@ -383,4 +383,3 @@ The main window acts as the user's daily workspace and keeps everything visible 
 
 **Product decision note:** The core loop for TaskFlow is **click tray icon → add/rearrange tasks with priority & due date → get 1-hour heads-up → check off task**. Nail this fast, reliable daily flow before adding cloud sync or extra settings.
 
-*End of document — TaskFlow PRD v1.0*
