@@ -1,4 +1,4 @@
-# Cos209-Group1
+# TaskFlow
 
 Group 1 project respository for TASKFLOW (Under development application)
 
